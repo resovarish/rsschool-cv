@@ -4,7 +4,7 @@ JavaScript Trainee
 
 ---
 Email: **<resovarish@gmail.com>** | Discord: **Arina F (@resovarish)** | Telegram: **@sodowaleen** 
-___
+---
 ## About me
 My goal is to start working in the field of front-end development.    
 
