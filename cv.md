@@ -1,4 +1,5 @@
-![alt-текст](ссылка на фото)# **Arina Fedosova**
+![photo](https://avatars.githubusercontent.com/u/68791522?v=4)
+# **Arina Fedosova**
 JavaScript Trainee
 
 ---
@@ -56,4 +57,4 @@ function makeNegative(num) {
 }
 ```
 ### Projects:
-[CV](ссылка на cv)
+[CV](https://github.com/resovarish/rsschool-cv)
