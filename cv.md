@@ -2,7 +2,7 @@
 JavaScript Trainee
 
 ---
-||: Email: **<resovarish@gmail.com>** || Discord **Arina F (@resovarish)** || Telegram: **@sodowaleen** :||
+Email: **<resovarish@gmail.com>** | Discord: **Arina F (@resovarish)** | Telegram: **@sodowaleen** 
 ___
 ## About me
 My goal is to start working in the field of front-end development.    
@@ -49,9 +49,10 @@ UI UX Designer course in IT-academy (High Tech Park Education Center in Minsk, B
 ```
 function makeNegative(num) {
   if (num <= 0) {
-  return num;
+    return num;
+  } else {
+    return (-num);
   }
-  else return (-num);
 }
 ```
 ### Projects:
