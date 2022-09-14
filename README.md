@@ -1,1 +1,1 @@
-# rsschool-cv
+https://resovarish.github.io/rsschool-cv/
